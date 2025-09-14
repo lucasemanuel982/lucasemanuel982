@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Atualmente trablho como dev Full-Stack<br>🌱 Estudos com foco no back-end
+🔭Atualmente trabalho como dev Full-Stack<br>🌱 Estudos com foco no back-end
 
 
 ## 🌐 Socials:
